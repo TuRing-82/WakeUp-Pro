@@ -18,10 +18,12 @@ Download the APK from the `downloads` folder in this repository:
 
 ## How To Install
 
-1. Download the APK to your Android phone.
-2. Open the file from your Downloads folder.
-3. Allow installation from unknown sources if Android asks.
-4. Open WakeUp Pro and grant the requested permissions.
+1.Click the APK link in the repository.
+2.On the APK file page, click the three dots on the top-right side and choose Download.
+3.Wait a few seconds for the download to start and finish on your phone.
+4.Open the file from your Downloads folder.
+5.Allow installation from unknown sources if Android asks.
+6.Open WakeUp Pro and grant the requested permissions.
 
 ## Notes
 
