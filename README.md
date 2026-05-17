@@ -31,4 +31,5 @@ Download the APK from the `downloads` folder in this repository:
 
 ## Feedback
 
-If something feels off, breaks, or could be improved, please send feedback to the team.
+If something feels off, breaks, or could be improved, please send feedback to the team down below.
+https://docs.google.com/forms/d/e/1FAIpQLSd4jg-q-d3j79NpIhLghvfFHqNuSi1aLxnocUbpalAWrq_nEw/viewform
