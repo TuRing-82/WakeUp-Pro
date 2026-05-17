@@ -1,0 +1,3 @@
+# Keep the distribution repo focused on the APK and repo docs.
+Thumbs.db
+.DS_Store
